@@ -4,7 +4,7 @@
 
 Makeroni is a place to meet and make, online and in person. Makeroni is open to all - if you want to join in, do so.
 
-Visit our [blog](https://makeroni.cc/) for more on what we are working on. You can also take a [look at the wiki](https://github.com/makeronicc/makeroni/wiki) for current project plans, and anything else we need to document relating to our meetings, events, and spaces.
+Visit our [blog](https://makeroni.cc/) for more on what we are working on. You can also take a [look at the wiki](https://github.com/makeronicc/.github/wiki) for current project plans, and anything else we need to document relating to our meetings, events, and spaces.
 
 ## Keeping in touch
 
