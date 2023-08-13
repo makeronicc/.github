@@ -9,7 +9,7 @@ Visit our [blog](https://makeroni.cc/) for more on what we are working on. You c
 ## Keeping in touch
 
 * For discussions, join our [Discord](https://discord.gg/HYYXHSu)
-* You can follow us on [Twitter](https://twitter.com/makeronicc) and [Mastodon / the Fediverse](https://fosstodon.org/makeroni)
+* You can follow us on [Mastodon / the Fediverse](https://fosstodon.org/makeroni) or [X/Twitter](https://twitter.com/makeronicc)
 * Follow the news on our [blog](https://makeroni.cc/news/)
 
 ## Participation
