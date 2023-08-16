@@ -14,6 +14,6 @@ Visit our [blog](https://makeroni.cc/) for more on what we are working on. You c
 
 ## Participation
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](../code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/makeronicc/.github/blob/main/code-of-conduct.md)
 
 We believe that a welcoming community is important, and we ask that you follow the [Code of Conduct](https://github.com/makeronicc/.github/blob/main/code-of-conduct.md) in all interactions.
